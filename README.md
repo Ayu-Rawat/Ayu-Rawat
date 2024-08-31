@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ayu-Rawat
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning javascript
+- 💞️ I’m not looking to collaborate
 - 📫 How to reach me ayushrawat.gio@gmail.com
 
 <!---
