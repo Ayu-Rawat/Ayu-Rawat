@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayu-Rawat
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning backend
 - 💞️ I’m not looking to collaborate
 - 📫 How to reach me ayushrawat.gio@gmail.com
 
