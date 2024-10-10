@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Ayush Rawat
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning backend
-- 💞️ I’m not looking to collaborate
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me ayushrawat.gio@gmail.com
+- Currently learning backend
 
 <!---
 Ayu-Rawat/Ayu-Rawat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
