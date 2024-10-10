@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayu-Rawat
+- 👋 Hi, I’m Ayush Rawat
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning backend
 - 💞️ I’m not looking to collaborate
