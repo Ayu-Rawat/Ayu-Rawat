@@ -47,11 +47,11 @@
 </p>
 
 
-<!-- ## 🌟 Featured Projects
+## 🌟 Featured Projects
 <p>Here are some of the projects I'm proud of:</p> 
 <ul> 
-  <li><a href="https://github.com/Ayu-Rawat/blogging-website">Project 2</a> - This project is a React-based application that integrates Appwrite for user authentication and post management.</li> 
-</ul> -->
+  <li><a href="https://www.jeepedia.in">Project 1</a>No bullshit tool for jee aspirants</li> 
+</ul> 
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayush-rawat-480537307/)
