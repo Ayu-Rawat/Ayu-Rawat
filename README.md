@@ -60,9 +60,8 @@
 
 ## 🎯 Current Focus
 - Doing DSA
-- Building scalable web applications( yt clone )
-- Contributing to open-source projects( society website )
-- Exploring Ai ml technologies
+- Building Society Website
+- Exploring AI ML technologies
 
 ---
 
