@@ -50,7 +50,7 @@
 ## 🌟 Featured Projects
 <p>Here are some of the projects I'm proud of:</p> 
 <ul> 
-  <li><a href="https://www.jeepedia.in">Project 1</a>No bullshit tool for jee aspirants</li> 
+  <li><a href="https://www.jeepedia.in">JeePedia</a> - No bullshit tool for jee aspirants</li> 
 </ul> 
 
 ## 🌐 Connect With Me
