@@ -50,7 +50,8 @@
 ## 🌟 Featured Projects
 <p>Here are some of the projects I'm proud of:</p> 
 <ul> 
-  <li><a href="https://www.jeepedia.in">JeePedia</a> - No bullshit tool for jee aspirants</li> 
+  <li><a href="https://www.jeepedia.in">JeePedia</a> - No bullshit tool for jee aspirants</li>
+  <li><a href="https://geoblits.ayush.it.com">GeoBlits</a> -Your Geography Challenge Awaits</li>
 </ul> 
 
 ## 🌐 Connect With Me
