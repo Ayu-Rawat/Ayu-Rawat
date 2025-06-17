@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/165577927?v=4" width="130" style="border-radius: 50%"/>
+  <img src="https://avatars.githubusercontent.com/u/165577927?v=4" width="500" style="border-radius: 50%"/>
   <h1 align="center">👋 Hi, I'm Ayush Rawat</h1>
 </div>
 
